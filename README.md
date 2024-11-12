@@ -73,3 +73,106 @@ Gerekli bilgiler:
 - Ad ve Soyad  
 - Email Adresi  
 - GitHub Proje Linki
+
+### Sertifika Görevi 2:
+Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta Githup reponuzun read me kısmında kampa dair teknik detaylar yazılmalıdır.
+
+-----
+
+📦İlerleme Durumu ve Alt Başlıklar
+-----
+
+## **📂Proje 1 : Main Subjects**
+
+- Visual Studio'da Konsol Projesi Oluşturma
+- Program.cs İçeriği
+- Console Sınıfı Metotları: Write, WriteLine, Read
+- \#region ve #endregion Kullanımı
+- String ve int Değişkenlere Giriş
+- Camel Case İsimlendirme Standartları
+- Tek Satırda Birden Fazla Değişken Tanımlama
+
+
+
+## **📂Proje 2 : Variables**
+
+
+- Double Değişkenlere Giriş
+- '.' ve ',' Ayrımı ve Konsola Veri  Yazdırma / Alma
+- Klavyeden Veri Girişleri
+- Parse Metodu Kullanımı
+- Char Değişkenler
+
+
+
+## **📂Proje 3 : Control Structures**
+
+
+- if-else Yapısı Kullanımı
+- C# Büyük-Küçük Harf Duyarlılığı
+- Mod Operatörü (%) Kullanımı
+- char Değişken ile Karar Yapıları
+- Örnek Restoran Proje Uygulaması (mini)
+- switch case Kullanımı
+- Switch-Case ile Hesap Makinesi Uygulaması
+- Eşitlik Kontrolü '==', '!='
+
+
+
+## **📂Proje 4 : Loops**
+
+
+- for Döngüsü Kullanımı
+- for Döngüsü ile Karar Yapıları
+- while Döngüsü
+- Örnek Sınav Sorusu
+
+
+
+## **📂Proje 5 : Loops with Stars '*'**
+
+
+- Alt alta 10 tane yıldız
+- Yan yana 10 tane yıldız
+- Alt alta 10 tane yıldız oluşturma ve her satırda 10 yıldız
+- Diküçgen
+- Ters diküçgen
+- Yan eşkenar üçgen
+- Baklava dilimi
+- Piramit
+- Ters piramit
+
+
+
+## **📂Proje 6 : Arrays**
+
+
+- Temel Dizi Örnekleri
+- Dizideki Tüm Elemanları Listeleme
+- Dizi Metotları (Length, Sort, Reverse, IndexOf, Max, Min)
+- Diziler ile Kullanıcıdan Değer Alma
+- Tek ve Çift Sayıları Listeleme
+
+
+
+## **📂Proje 7 : Foreach Iteration**
+
+
+- foreach Döngüsü Kullanımı
+- Dizi Elemanları ile İşlem Yapma
+- Sınav Sistemi Uygulaması
+
+
+
+## **📂Proje 8 : Methods**
+
+
+- Void Metotlar
+- Geriye Değer Döndürmeyen string Parametreli Metotlar
+- Geriye Değer Döndürmeyen int Parametreli Metotlar
+- Geriye Değer Döndüren Metotlar
+- Geriye Değer Döndüren string Parametreli Metotlar
+- Geriye Değer Döndüren int Parametreli Metotlar
+- Örnek Uygulama
+
+
