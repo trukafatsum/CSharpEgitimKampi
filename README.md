@@ -175,4 +175,22 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 - Geriye Değer Döndüren int Parametreli Metotlar
 - Örnek Uygulama
 
+## **📂Proje 9 : SQL**
 
+
+- Manuel olarak Sql Management Studio Kullanımı
+
+  - Veritabanı oluşturma
+  - Tablo oluşturma
+  - Veri türleri (bit, char, date, datetime, decimal, int, nvarchar, varchar, tinyint)
+  - PrimaryKey Kavramı ve Identity Spesification
+  - DML Komutları - Select Kullanımı
+- Visual Studio üzerinde
+
+  - SqlConnection Sınıfından Instance Oluşturma ve Bağlantı Cümlesinin Tanımlanması
+  - SqlCommand Sınıfından Instance Oluşturma
+  - SqlDataAdapter Sınıfından Instance Oluşturma
+  - DataTable Sınıfından Instance Oluşturma
+  - SqlDataAdapter ile Oluşturduğumuz Instance Üzerinden Fill Metodu Kullanımı
+  - foreach Kullanarak dataTable Üzerindeki Bilgileri Konsol Ekranına Yazdırma
+  - var Değişkeni Kullanımı
