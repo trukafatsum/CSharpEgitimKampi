@@ -76,6 +76,7 @@ Gerekli bilgiler:
 
 ### Sertifika Görevi 2:
 Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta Githup reponuzun read me kısmında kampa dair teknik detaylar yazılmalıdır.
+[**form**](https://docs.google.com/forms/d/1XTu37K_1tIe_T8i5OBxL5khK9LhFG0dp0MDl29x3r3c/viewform?edit_requested=true)
 
 -----
 
