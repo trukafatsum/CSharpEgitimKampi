@@ -194,3 +194,17 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
   - SqlDataAdapter ile Oluşturduğumuz Instance Üzerinden Fill Metodu Kullanımı
   - foreach Kullanarak dataTable Üzerindeki Bilgileri Konsol Ekranına Yazdırma
   - var Değişkeni Kullanımı
+
+
+
+## **📂Proje 10 : DatabaseCRUD**
+
+
+- CRUD: Create Read Update Delete
+- Kategori Tablosuna Veri Ekleme İşlemi
+- Ürünler Tablosuna Veri Ekleme İşlemi
+- Ürünler Tablosundan Veri Çekme İşlemi
+- Ürünler Tablosundan Veri Silme İşlemi
+- Ürünler Tablosunda Veri Güncelleme İşlemi
+- Bu İşlemleri Gerçekleştirirken Önceki Proje Konularını da Kullandık:
+(Konsola Yazı Yazdırma/ Veri Alma, Değişken Tanımlama, SQL Kütüphanesindeki Sınıflardan Instance Oluşturma ve İşleme, DataTable Sınıfından Instance Oluşturma, Instance'larda Yer Alan Metotları Kullanma, Foreach Iterasyonu, Karar Yapıları)
