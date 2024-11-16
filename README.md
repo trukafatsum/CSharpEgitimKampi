@@ -197,7 +197,7 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 
 
 
-## **📂Proje 10 : DatabaseCRUD**
+## **📂Proje 10 : Database CRUD**
 
 
 - CRUD: Create Read Update Delete
@@ -207,4 +207,5 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 - Ürünler Tablosundan Veri Silme İşlemi
 - Ürünler Tablosunda Veri Güncelleme İşlemi
 - Bu İşlemleri Gerçekleştirirken Önceki Proje Konularını da Kullandık:
+
 (Konsola Yazı Yazdırma/ Veri Alma, Değişken Tanımlama, SQL Kütüphanesindeki Sınıflardan Instance Oluşturma ve İşleme, DataTable Sınıfından Instance Oluşturma, Instance'larda Yer Alan Metotları Kullanma, Foreach Iterasyonu, Karar Yapıları)
