@@ -210,3 +210,18 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 - Bu İşlemleri Gerçekleştirirken Önceki Proje Konularını da Kullandık:
 
 (Konsola Yazı Yazdırma/ Veri Alma, Değişken Tanımlama, SQL Kütüphanesindeki Sınıflardan Instance Oluşturma ve İşleme, DataTable Sınıfından Instance Oluşturma, Instance'larda Yer Alan Metotları Kullanma, Foreach Iterasyonu, Karar Yapıları)
+
+
+
+## **📂Proje 11 : New Solution & N Tier Architecture**
+
+
+
+- EntityLayer, DataAcessLayer, BusinessLayer, Presentation / UI Layer Olmak üzere 4 Katman İçin Class Library Projeleri Oluşturma
+- Bu 4 Katman Hakkında Ne İşe Yarayacağına Dair Bilgilendirme
+- EntityLayer Katmanında Concrete Klasörü Oluştrup Category, Customer, Order, Product Sınıflarını Oluşturma
+- Concrete Hakkında Kısaca Bilgilendirme
+- Access Modifiers Hakkında Kısaca Bilgilendirme
+- C# Sınıf Yapısı ve Sql Tablo Yapısı İlişkisi
+- Field - Variable - Property Arasındaki Farklar
+- SOLID Prensibi Hakkında Bilgilendirme
