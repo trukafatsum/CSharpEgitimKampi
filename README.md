@@ -225,3 +225,18 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 - C# Sınıf Yapısı ve Sql Tablo Yapısı İlişkisi
 - Field - Variable - Property Arasındaki Farklar
 - SOLID Prensibi Hakkında Bilgilendirme
+
+
+
+## **📂Proje 12 : Data Access Katmanı ve Context Sınıfı**
+
+
+
+- Entity Katmanında Yer Alan Sınıflarda Bire Çok İlişkinin Kurulması
+- Nuget Package : Entity Framework İndirmesi
+- Entity -> Data Access -> Business -> Presentation Projelerin Referans İlişkisi
+- Data Access projesinde Context Klasörü Oluşturma
+- Context : Veritabanı Bağlantı ve Veritabanına Yansıyacak Olan Tabloları Tuttuğumuz Bir Sınıf Görevini Görür.
+- Context Klasörü İçerisine DbContext sınıfından kalıtım alan CampContext Sınıfı Oluşturma
+  Bir Varlık(Entity) Sınıfını Veritabanına Yansıtmak İçin Context Sınıfı İçerisine DbSet<ClassName> Olarak Tanımlanması Gerekir. Pillar Lays Kavramı
+- Presentation Katmanında App.Config İçerisine Sql Bağlantısını Cümlesini Tanımlama
