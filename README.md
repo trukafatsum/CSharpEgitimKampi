@@ -7,11 +7,12 @@
   
   **C# Eğitim Kampının devamı..**
   
-  
+-----
 
-**Ders 11 : New Solution & N Tier Architecture**
+# 📦İlerleme Durumu ve Alt Başlıklar
 
-------
+
+## **Ders 11 : New Solution & N Tier Architecture**
 
 - EntityLayer, DataAcessLayer, BusinessLayer, Presentation / UI Layer Olmak üzere 4 Katman İçin Class Library Projeleri Oluşturma
 - Bu 4 Katman Hakkında Ne İşe Yarayacağına Dair Bilgilendirme
@@ -22,11 +23,9 @@
 - Field - Variable - Property Arasındaki Farklar
 - SOLID Prensibi Hakkında Bilgilendirme
 
-
-
-**Ders 12 : Data Access Katmanı ve Context Sınıfı**
-
 ------
+
+## **Ders 12 : Data Access Katmanı ve Context Sınıfı**
 
 - Entity Katmanında Yer Alan Sınıflarda Bire Çok İlişkinin Kurulması
 - Nuget Package : Entity Framework İndirmesi
@@ -37,11 +36,9 @@
   Bir Varlık(Entity) Sınıfını Veritabanına Yansıtmak İçin Context Sınıfı İçerisine DbSet<ClassName> Olarak Tanımlanması Gerekir. Pillar Lays Kavramı
 - Presentation Katmanında App.Config İçerisine Sql Bağlantısını Cümlesini Tanımlama
 
-
-
-**Ders 13 : Migration Operations & Abstract Interfaces**
-
 ------
+
+## **Ders 13 : Migration Operations & Abstract Interfaces**
 
 - Migration Tanımı ve Kullanımı
 - Package Manager Console default: Context sınıfımızın olduğu DAL Projesi
@@ -54,22 +51,22 @@
 - Refactoring Guru Website- Tasarım Desenleri İncelemesi
 - DAL Katmanında Generic Interface ve Bundan Kalıtım Alan Category, Customer, Product, Order Interface'leri Oluşturuldu
 
-
-
-**Ders 14 : ORM / EntityFramework / DB First / Modelling**
-
 ------
+
+## **Ders 14 : ORM / EntityFramework / DB First / Modelling**
 
 - EFProject Adında Yeni Bir WinForm Projesi Oluşturduk,
 - ORM, EntityFramework, DBFirst Hakkında Makale İnceledik,
 - SQL Tarafında Yeni Bir Veritabanı Oluşturup Tabloları Tanımladık
 - AdoNet Model Oluşturduk ve Oluşturulan İçeriği İnceledik
 
-**Ders 15 : EntityFramework Methods with Example Project**
-
 ------
+
+## **Ders 15 : EntityFramework Methods with Example Project**
 
 - Bir Önceki Derste Modellediğimiz Enitiylerden Instance Oluşturma
 - ToList, Add, Remove, SaveChanges Metotlarının Kullanımı
 - Id Değerine Göre Listeleme
 - MessageBox Sınıfından Ekrana Bilgi Yazdırma
+
+------
