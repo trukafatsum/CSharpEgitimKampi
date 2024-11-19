@@ -64,3 +64,12 @@
 - ORM, EntityFramework, DBFirst Hakkında Makale İnceledik,
 - SQL Tarafında Yeni Bir Veritabanı Oluşturup Tabloları Tanımladık
 - AdoNet Model Oluşturduk ve Oluşturulan İçeriği İnceledik
+
+**Ders 15 : EntityFramework Methods with Example Project**
+
+------
+
+- Bir Önceki Derste Modellediğimiz Enitiylerden Instance Oluşturma
+- ToList, Add, Remove, SaveChanges Metotlarının Kullanımı
+- Id Değerine Göre Listeleme
+- MessageBox Sınıfından Ekrana Bilgi Yazdırma
