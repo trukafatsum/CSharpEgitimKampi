@@ -56,7 +56,7 @@
 
 
 
-**Ders 14 : ORM / EntityFramework / DB First / Modelling **
+**Ders 14 : ORM / EntityFramework / DB First / Modelling**
 
 ------
 
