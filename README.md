@@ -211,4 +211,4 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 
 (Konsola Yazı Yazdırma/ Veri Alma, Değişken Tanımlama, SQL Kütüphanesindeki Sınıflardan Instance Oluşturma ve İşleme, DataTable Sınıfından Instance Oluşturma, Instance'larda Yer Alan Metotları Kullanma, Foreach Iterasyonu, Karar Yapıları)
 
-** Ders 11 ve devamı için CSharpEgitimKampi301 adlı yeni bir solution başlattık, repolarım arasında bulabilirsiniz. **
+**Ders 11 ve devamı için [CSharpEgitimKampi301](https://www.github.com/trukafatsum/CSharpEgitimKampi301/) adlı yeni bir solution başlattık, repolarım arasında bulabilirsiniz.**
