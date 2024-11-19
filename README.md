@@ -53,3 +53,14 @@
 - Repository Design Pattern Tanımı
 - Refactoring Guru Website- Tasarım Desenleri İncelemesi
 - DAL Katmanında Generic Interface ve Bundan Kalıtım Alan Category, Customer, Product, Order Interface'leri Oluşturuldu
+
+
+
+**Ders 14 : ORM / EntityFramework / DB First / Modelling **
+
+------
+
+- EFProject Adında Yeni Bir WinForm Projesi Oluşturduk,
+- ORM, EntityFramework, DBFirst Hakkında Makale İnceledik,
+- SQL Tarafında Yeni Bir Veritabanı Oluşturup Tabloları Tanımladık
+- AdoNet Model Oluşturduk ve Oluşturulan İçeriği İnceledik
