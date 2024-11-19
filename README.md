@@ -211,32 +211,4 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 
 (Konsola Yazı Yazdırma/ Veri Alma, Değişken Tanımlama, SQL Kütüphanesindeki Sınıflardan Instance Oluşturma ve İşleme, DataTable Sınıfından Instance Oluşturma, Instance'larda Yer Alan Metotları Kullanma, Foreach Iterasyonu, Karar Yapıları)
 
-
-
-## **📂Proje 11 : New Solution & N Tier Architecture**
-
-
-
-- EntityLayer, DataAcessLayer, BusinessLayer, Presentation / UI Layer Olmak üzere 4 Katman İçin Class Library Projeleri Oluşturma
-- Bu 4 Katman Hakkında Ne İşe Yarayacağına Dair Bilgilendirme
-- EntityLayer Katmanında Concrete Klasörü Oluştrup Category, Customer, Order, Product Sınıflarını Oluşturma
-- Concrete Hakkında Kısaca Bilgilendirme
-- Access Modifiers Hakkında Kısaca Bilgilendirme
-- C# Sınıf Yapısı ve Sql Tablo Yapısı İlişkisi
-- Field - Variable - Property Arasındaki Farklar
-- SOLID Prensibi Hakkında Bilgilendirme
-
-
-
-## **📂Proje 12 : Data Access Katmanı ve Context Sınıfı**
-
-
-
-- Entity Katmanında Yer Alan Sınıflarda Bire Çok İlişkinin Kurulması
-- Nuget Package : Entity Framework İndirmesi
-- Entity -> Data Access -> Business -> Presentation Projelerin Referans İlişkisi
-- Data Access projesinde Context Klasörü Oluşturma
-- Context : Veritabanı Bağlantı ve Veritabanına Yansıyacak Olan Tabloları Tuttuğumuz Bir Sınıf Görevini Görür.
-- Context Klasörü İçerisine DbContext sınıfından kalıtım alan CampContext Sınıfı Oluşturma
-  Bir Varlık(Entity) Sınıfını Veritabanına Yansıtmak İçin Context Sınıfı İçerisine DbSet<ClassName> Olarak Tanımlanması Gerekir. Pillar Lays Kavramı
-- Presentation Katmanında App.Config İçerisine Sql Bağlantısını Cümlesini Tanımlama
+** Ders 11 ve devamı için CSharpEgitimKampi301 adlı yeni bir solution başlattık, repolarım arasında bulabilirsiniz. **
