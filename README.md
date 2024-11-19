@@ -70,3 +70,12 @@
 - MessageBox Sınıfından Ekrana Bilgi Yazdırma
 
 ------
+
+## **Ders 16 : EntityFramework Methods with Tour Project : Location Form**
+
+- Bir Önceki Derste Modellediğimiz Enitiylerden Instance Oluşturma
+- ToList, Add, Remove, SaveChanges Metotlarının Kullanımı
+- Id Değerine Göre Listeleme
+- MessageBox Sınıfından Ekrana Bilgi Yazdırma
+
+------
