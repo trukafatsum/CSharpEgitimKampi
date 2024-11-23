@@ -79,3 +79,14 @@
 - MessageBox Sınıfından Ekrana Bilgi Yazdırma
 
 ------
+
+## **Ders 17 : EntityFramework LINQ Methods with Tour Project : Statistics Form**
+
+- İstatistik Bilgileri Ekranda Göstermek Üzere Yeni Bir Form Oluşturduk
+- Form tasarımına 12 panel ve 24 label ekledik 
+- Her Panel İçerisindeki İlgili Bilgileri LINQ Sorguları Aracılığıyla Veritabanından Getirdik
+- Kullandığımız metotlar : Where, Select, ToString, Max, Count, Sum, Average, FirstOrDefault
+
+![Statistics Image](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/Resources/Statistics.png)
+
+------
