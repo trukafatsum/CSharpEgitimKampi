@@ -90,3 +90,12 @@
 ![Statistics Image](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/Resources/Statistics.png)
 
 ------
+
+## **Ders 18 : EntityState Commands, Generic Repository, EF Classes**
+
+- EntityState durumları ve önemi
+- DataAccessLayer'da Generic Repository oluşumu
+- EF Sınıfları tanımlanması
+- Mimari çalışmalar (Abstract)..
+
+------
