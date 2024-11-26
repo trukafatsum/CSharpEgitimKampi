@@ -57,6 +57,11 @@
     <Compile Include="Abstract\IOrderDal.cs" />
     <Compile Include="Abstract\IProductDal.cs" />
     <Compile Include="Context\CampContext.cs" />
+    <Compile Include="Context\EntityFramework\EFCategoryDal.cs" />
+    <Compile Include="Context\EntityFramework\EFCustomerDal.cs" />
+    <Compile Include="Context\EntityFramework\EFOrderDal.cs" />
+    <Compile Include="Context\EntityFramework\EFProductDal.cs" />
+    <Compile Include="Context\Repositories\GenericRepository.cs" />
     <Compile Include="Migrations\202411190505181_mig1.cs" />
     <Compile Include="Migrations\202411190505181_mig1.Designer.cs">
       <DependentUpon>202411190505181_mig1.cs</DependentUpon>
@@ -70,10 +75,7 @@
       <Name>CSharpEgitimKampi301.EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Context\EntityFramework\" />
-    <Folder Include="Context\Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
