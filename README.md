@@ -6,6 +6,8 @@
   
   
   **C# Eğitim Kampının devamı..**
+
+![Achievement/Artifact](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/1-2-3caseler.jpg)
   
 -----
 
@@ -88,5 +90,14 @@
 - Kullandığımız metotlar : Where, Select, ToString, Max, Count, Sum, Average, FirstOrDefault
 
 ![Statistics Image](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/Resources/Statistics.png)
+
+------
+
+## **Ders 18 : EntityState Commands, Generic Repository, EF Classes**
+
+- EntityState durumları ve önemi
+- DataAccessLayer'da Generic Repository oluşumu
+- EF Sınıfları tanımlanması
+- Mimari çalışmalar (Abstract)..
 
 ------
