@@ -8,6 +8,6 @@ namespace CSharpEgitimKampi301.BusinessLayer.Abstract
         void TUpdate(T entity);
         void TDelete(T entity);
         List<T> TGetAll();
-        T TgetById(int id);
+        T TGetById(int id);
     }
 }

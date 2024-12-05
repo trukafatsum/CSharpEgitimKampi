@@ -8,7 +8,7 @@
   **C# Eğitim Kampının devamı..**
 
 ![Achievement/Artifact](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/1-2-3caseler.jpg)
-  
+
 -----
 
 # 📦İlerleme Durumu ve Alt Başlıklar
@@ -101,3 +101,23 @@
 - Mimari çalışmalar (Abstract)..
 
 ------
+
+## Ders 19 : BusinessLayer (Logic)
+
+- Abstract klasörü altına Generic ve Diğer Interfaceleri tanımlama
+- Concrete klasörü altına Sınıflarımızı tanımlama ve Interfacelerin implementasyonu
+- PresentationLayer da Kategori için form hazırlama ve düzenleme
+
+----
+
+## Ders 20 : Dependency Injection (Bağımlılık Enjeksiyonu)
+
+- **Temel Amaçları :** Gevşek bağlılık (Loose Coupling), Test Edilebilirlik, Bakım Kolaylığı, Tek Sorumluluk İlkesi (Single Responsibility - SOLID)
+
+- **Nasıl Çalışır :** Genellikle üç yöntemle uygulanır, 1.Constructor Injection / 2. Setter Injection / 3. Method Injection
+- **Avantajlar :** 
+  - Bağımlılıkların yaşam döngüsünü merkezi olarak yönetebilirsiniz.
+  - Kodun okunabilirliği ve düzenini arttırır
+  - Yeniden kullanılabilir ve modüler bir kod yapısı sağlar
+- BusinessLayer da Manager sınıflarımıza DI uyguladık
+- PresentationLayer (FormUI) da Listeleme, Ekleme, Silme, Güncelleme, ID'ye Göre Getirme İşlemlerini tanımladık

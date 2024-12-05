@@ -28,7 +28,7 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
             return _customerDal.GetAll();
         }
 
-        public Customer TgetById(int id)
+        public Customer TGetById(int id)
         {
             return _customerDal.GetById(id);
         }

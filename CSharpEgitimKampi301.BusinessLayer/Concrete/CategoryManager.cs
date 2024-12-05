@@ -1,11 +1,7 @@
 ﻿using CSharpEgitimKampi301.BusinessLayer.Abstract;
 using CSharpEgitimKampi301.DataAccessLayer.Abstract;
 using CSharpEgitimKampi301.EntityLayer.Concrete;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.BusinessLayer.Concrete
 {
@@ -28,7 +24,7 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
             return _categoryDal.GetAll();
         }
 
-        public Category TgetById(int id)
+        public Category TGetById(int id)
         {
             return _categoryDal.GetById(id);
         }
