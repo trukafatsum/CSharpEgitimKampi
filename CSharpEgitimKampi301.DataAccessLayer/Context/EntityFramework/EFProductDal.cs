@@ -11,5 +11,21 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Context.EntityFramework
 {
     public class EFProductDal : GenericRepository<Product>, IProductDal
     {
+        public List<Object> GetProductsWithCategory()
+        {
+            var context = new CampContext();
+            var vaules = context.Products
+                .Select(p => new
+                {
+                    ProductID = p.ProductID,
+                    ProductName = p.ProductName,
+                    ProductStock = p.ProductStock,
+                    ProductPrice = p.ProductPrice,
+                    ProductDescription = p.ProductDescription,
+                    CategoryName = p.Category.CategoryName,
+                }).ToList();
+            return vaules.Cast<object>().ToList();
+
+        }
     }
 }
