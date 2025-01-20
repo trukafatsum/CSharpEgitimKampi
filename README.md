@@ -213,7 +213,7 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
   
   **C# Eğitim Kampının devamı..**
 
-![Achievement/Artifact](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/1-2-3caseler.jpg)
+![Achievement/Artifact](https://github.com/trukafatsum/CSharpEgitimKampi/blob/master/1-2-3caseler.jpg)
 
 -----
 
@@ -295,7 +295,7 @@ Kampın ilk 8 projesi eksiksiz olarak Github'a yüklenmelidir. Ek olarak kampta 
 - Her Panel İçerisindeki İlgili Bilgileri LINQ Sorguları Aracılığıyla Veritabanından Getirdik
 - Kullandığımız metotlar : Where, Select, ToString, Max, Count, Sum, Average, FirstOrDefault
 
-![Statistics Image](https://github.com/trukafatsum/CSharpEgitimKampi301/blob/master/Resources/Statistics.png)
+![Statistics Image](https://github.com/trukafatsum/CSharpEgitimKampi/blob/master/Resources/Statistics.png)
 
 ------
 
